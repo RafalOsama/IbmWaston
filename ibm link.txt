@@ -1,0 +1,1 @@
+https://eu-de.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Aeu-de%3Aa%2Fc03b24b163304e3e9dd3738a0e823b0b%3A7cb459d3-99e2-4104-a87a-19ec8f649b39%3A%3A/assistants/21e03639-8ce2-48ad-b0c7-cb082d707385
